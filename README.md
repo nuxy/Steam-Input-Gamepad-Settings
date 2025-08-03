@@ -1,5 +1,7 @@
 # Steam-Input-Gamepad-Settings
 
+Various [Steam Input](https://partner.steamgames.com/doc/features/steam_controller) Gamepad and High Precision Controller settings. 
+
 ## Versioning
 
 Game configuration settings are maintained under the [Semantic Versioning](https://semver.org) guidelines.
