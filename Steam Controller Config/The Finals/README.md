@@ -4,4 +4,6 @@ Workaround due to [Embark Studios](https://www.embark-studios.com) discontinued 
 
 ## Nuxy's Gamepad With Camera Controls (WASM mapping)
 
+This configuration is available and can be installed from: **Load new layout > Community Profiles**
+
 ![Preview](https://raw.githubusercontent.com/nuxy/Steam-Input-Gamepad-Settings/refs/heads/master/Steam%20Controller%20Config/The%20Finals/preview.png)
