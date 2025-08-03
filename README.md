@@ -2,6 +2,10 @@
 
 Various [Steam Input](https://partner.steamgames.com/doc/features/steam_controller) Gamepad and High Precision Controller settings. 
 
+## Supported games
+
+- [The Finals](https://github.com/nuxy/Steam-Input-Gamepad-Settings/tree/master/Steam%20Controller%20Config/The%20Finals)
+
 ## Versioning
 
 Game configuration settings are maintained under the [Semantic Versioning](https://semver.org) guidelines.
