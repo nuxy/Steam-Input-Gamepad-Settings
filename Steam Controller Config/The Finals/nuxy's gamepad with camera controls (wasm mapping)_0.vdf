@@ -1,7 +1,7 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"78"
+	"revision"		"84"
 	"title"		"Nuxy's Gamepad With Camera Controls (WASM mapping)"
 	"description"		"Workaround due to Embark Studios discontinued support of Steam Input integrated Gamepad and High Precision Controllers.  This template provides keyboard mapping that loosely mimics the Steam Controller behavior."
 	"creator"		"76561198377681273"
@@ -12,7 +12,7 @@
 	"controller_caps"		"2179061"
 	"major_revision"		"0"
 	"minor_revision"		"0"
-	"Timestamp"		"473223992"
+	"Timestamp"		"300287960"
 	"localization"
 	{
 		"english"
@@ -577,7 +577,14 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press TAB, Scoreboard, , "
+							"binding"		"key_press TAB, Scoreboard / Loadout, , "
+						}
+					}
+					"Double_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press J, , "
 						}
 					}
 				}
@@ -647,10 +654,6 @@
 						{
 							"binding"		"key_press SPACE, Jump, , "
 						}
-						"settings"
-						{
-							"haptic_intensity"		"3"
-						}
 					}
 				}
 				"disabled_activators"
@@ -670,7 +673,7 @@
 			"1"		"left_trackpad active"
 			"2"		"right_trackpad active"
 			"9"		"right_trackpad inactive"
-			"12"		"right_trackpad active modeshift"
+			"12"		"right_trackpad inactive modeshift"
 			"15"		"right_trackpad inactive modeshift"
 			"3"		"joystick active"
 			"4"		"left_trigger active"
