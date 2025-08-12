@@ -14,6 +14,10 @@ This configuration is available and can be installed from: **Load new layout > C
 
 For the mostpart, the game is playable but there are noticeable differences between the game HPC integration and using a WASD layout.  I have listed the ones I noticed while playing below.  Note, this list will be updated as new issues arise.  In most cases they can be mitigated using [Steam Input](https://partner.steamgames.com/doc/features/steam_controller) while others need to be addressed by the game developers themselves.
 
+### No controller AIM assist
+
+This feature is currently not supported when using K & M bindings.  However, based on past experience I don't see much difference during game play.
+
 ### Multipurpose buttons usage
 
 The game currently handles controller button bindings that serve multiple purposes.  Buttons may perform different operations based on the context (e.g. in-game action vs menu operations).
@@ -28,3 +32,7 @@ There can be a slight delay when performing sequential operations.
 
 - Performing a **Use/Sprint/Jump** while changing directions may contain a slight lag.
 - Performing a **Slide** action after a **Jump** may prematurely stop at a **Crouch**.
+
+### Incorrect glyphs in game UI
+
+The game interface shows K & M buttons that do not correspond to the controller.
