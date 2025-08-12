@@ -4,7 +4,7 @@ Workaround due to [Embark Studios](https://www.embark-studios.com) discontinued 
 
 **UPDATE:** It seems that as of 8/4 Embark has [finally recognized this as an issue](https://discord.com/channels/1008696016318513243/1398020088116023366/1401941186113179679) so I assume it will be fixed in a future (patch) release.
 
-## Nuxy's Gamepad With Camera Controls (WASM mapping)
+## Nuxy's Gamepad With Camera Controls (WASD mapping)
 
 This configuration is available and can be installed from: **Load new layout > Community Profiles**
 
@@ -12,7 +12,7 @@ This configuration is available and can be installed from: **Load new layout > C
 
 ## Notable differences from HPC layouts
 
-For the mostpart, the game is playable but there are noticeable differences between the game HPC integration and using a WASM layout.  I have listed the ones I noticed while playing below.  Note, this list will be updated as new issues arise.  In most cases they can be mitigated using [Steam Input](https://partner.steamgames.com/doc/features/steam_controller) while others need to be addressed by the game developers themselves.
+For the mostpart, the game is playable but there are noticeable differences between the game HPC integration and using a WASD layout.  I have listed the ones I noticed while playing below.  Note, this list will be updated as new issues arise.  In most cases they can be mitigated using [Steam Input](https://partner.steamgames.com/doc/features/steam_controller) while others need to be addressed by the game developers themselves.
 
 ### Multipurpose buttons usage
 
