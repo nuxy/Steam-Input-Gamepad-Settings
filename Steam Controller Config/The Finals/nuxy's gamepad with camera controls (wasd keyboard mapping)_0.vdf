@@ -1,18 +1,18 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"84"
-	"title"		"Nuxy's Gamepad With Camera Controls (WASM mapping)"
-	"description"		"Workaround due to Embark Studios discontinued support of Steam Input integrated Gamepad and High Precision Controllers.  This template provides keyboard mapping that loosely mimics the Steam Controller behavior."
+	"revision"		"95"
+	"title"		"Nuxy's Gamepad With Camera Controls (WASD mapping)"
+	"description"		"Alternative to Embark Studios Official layout for THE FINALS - Gamepad With Camera Controls. This template provides keyboard mapping that loosely mimics the Steam Controller behavior."
 	"creator"		"76561198377681273"
 	"progenitor"		""
-	"url"		"autosave://C:\\Program Files (x86)\\Steam\\steamapps\\common\\Steam Controller Configs\\417415545\\config\\2073850\\controller_steamcontroller_gordon.vdf"
+	"url"		"usercloud://2073850/nuxy's gamepad with camera controls (wasd keyboard mapping)_0"
 	"export_type"		"personal_local"
 	"controller_type"		"controller_steamcontroller_gordon"
 	"controller_caps"		"2179061"
 	"major_revision"		"0"
 	"minor_revision"		"0"
-	"Timestamp"		"300287960"
+	"Timestamp"		"0"
 	"localization"
 	{
 		"english"
@@ -161,7 +161,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press R, Reload, , "
+							"binding"		"key_press F, Pickup, , "
 						}
 					}
 				}
@@ -177,7 +177,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press F, Pickup, , "
+							"binding"		"key_press R, Reload, , "
 						}
 					}
 				}
@@ -292,6 +292,26 @@
 						"settings"
 						{
 							"repeat_rate"		"99"
+							"haptic_intensity"		"0"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
+			"click"
+			{
+				"activators"
+				{
+					"Long_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press J, Load out, , "
+						}
+						"settings"
+						{
 							"haptic_intensity"		"0"
 						}
 					}
@@ -580,13 +600,6 @@
 							"binding"		"key_press TAB, Scoreboard / Loadout, , "
 						}
 					}
-					"Double_Press"
-					{
-						"bindings"
-						{
-							"binding"		"key_press J, , "
-						}
-					}
 				}
 				"disabled_activators"
 				{
@@ -652,7 +665,7 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press SPACE, Jump, , "
+							"binding"		"key_press SPACE, Jump / Press Start, , "
 						}
 					}
 				}
